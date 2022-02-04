@@ -11,5 +11,5 @@ phases:
       - echo build over
 artifacts:
   files:
-    - target/springcicd.jar
+    - target/spring-docker.jar
   discard-paths: yes
